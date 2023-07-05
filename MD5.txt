@@ -1,0 +1,7 @@
+ab2d465ac75e90b3cfde6d55fe0abc0e *DESCRIPTION
+7f5e7995485773d7c742bdea4183a0bc *INDEX
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+7ae9d6ec5028118334c9b08f510d25fb *R/minxent.multiple.R
+933b5897d973dd80930ac93cfe67c8b8 *R/minxent.single.R
+3a8c06c426772597236c78efbbe66269 *man/minxent.multiple.Rd
+59b9ea2313c69ec55bb9ba16767b3ca6 *man/minxent.single.Rd

@@ -1,0 +1,2 @@
+minxent.single              Minimum Cross Entropy Distribution under One Constraint
+minxent.multiple            Minimum Cross Entropy Distribution under Multiple Constraints
